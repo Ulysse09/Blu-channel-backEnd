@@ -1,0 +1,20 @@
+{
+  "name": "blue-channel-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulysse09/Blu-channel-backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulysse09/Blu-channel-backEnd/issues"
+  },
+  "homepage": "https://github.com/Ulysse09/Blu-channel-backEnd#readme"
+}
